@@ -13,11 +13,10 @@ namespace Otus.Teaching.Linq.ATM.Console
 
             var atmManager = CreateATMManager();
 
-            //TODO: Далее выводим результаты разработанных LINQ запросов
             atmManager.ShowUserByLoginPass("snow", "111");
-            atmManager.showUsersAccounts(5);
-            atmManager.showAllAccountandHistoryUser(5);
-            atmManager.showAllOperationInAccounts(9);
+            atmManager.ShowUsersAccounts(5);
+            atmManager.ShowAllAccountandHistoryUser(5);
+            atmManager.ShowAllOperationInAccounts(9);
             atmManager.ShowAllUsersMoreN(100_000);
             System.Console.WriteLine("Завершение работы приложения-банкомата...");
         }

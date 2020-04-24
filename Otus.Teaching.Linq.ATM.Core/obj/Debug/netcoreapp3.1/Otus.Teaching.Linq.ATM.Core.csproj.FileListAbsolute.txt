@@ -7,3 +7,12 @@ F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.Core\bin\Debug\
 F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.Core\bin\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.pdb
 F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.dll
 F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.pdb
+C:\Users\5567\source\repos\Rational\novopashinwm\OtusLinq\Otus.Teaching.Linq.ATM.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.csprojAssemblyReference.cache
+C:\Users\5567\source\repos\Rational\novopashinwm\OtusLinq\Otus.Teaching.Linq.ATM.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.csproj.CoreCompileInputs.cache
+C:\Users\5567\source\repos\Rational\novopashinwm\OtusLinq\Otus.Teaching.Linq.ATM.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.AssemblyInfoInputs.cache
+C:\Users\5567\source\repos\Rational\novopashinwm\OtusLinq\Otus.Teaching.Linq.ATM.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.AssemblyInfo.cs
+C:\Users\5567\source\repos\Rational\novopashinwm\OtusLinq\Otus.Teaching.Linq.ATM.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.dll
+C:\Users\5567\source\repos\Rational\novopashinwm\OtusLinq\Otus.Teaching.Linq.ATM.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.pdb
+C:\Users\5567\source\repos\Rational\novopashinwm\OtusLinq\Otus.Teaching.Linq.ATM.Core\bin\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.deps.json
+C:\Users\5567\source\repos\Rational\novopashinwm\OtusLinq\Otus.Teaching.Linq.ATM.Core\bin\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.dll
+C:\Users\5567\source\repos\Rational\novopashinwm\OtusLinq\Otus.Teaching.Linq.ATM.Core\bin\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.pdb
