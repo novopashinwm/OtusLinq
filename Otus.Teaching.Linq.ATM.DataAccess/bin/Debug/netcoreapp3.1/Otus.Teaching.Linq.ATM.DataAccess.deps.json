@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Otus.Teaching.Linq.ATM.DataAccess/1.0.0": {
+        "dependencies": {
+          "Otus.Teaching.Linq.ATM.Core": "1.0.0"
+        },
+        "runtime": {
+          "Otus.Teaching.Linq.ATM.DataAccess.dll": {}
+        }
+      },
+      "Otus.Teaching.Linq.ATM.Core/1.0.0": {
+        "runtime": {
+          "Otus.Teaching.Linq.ATM.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Otus.Teaching.Linq.ATM.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Otus.Teaching.Linq.ATM.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

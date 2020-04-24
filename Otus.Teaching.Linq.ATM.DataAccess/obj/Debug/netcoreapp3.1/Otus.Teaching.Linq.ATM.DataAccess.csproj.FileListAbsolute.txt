@@ -1,0 +1,12 @@
+F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.DataAccess\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.DataAccess.csprojAssemblyReference.cache
+F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.DataAccess\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.DataAccess.csproj.CoreCompileInputs.cache
+F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.DataAccess\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.DataAccess.AssemblyInfoInputs.cache
+F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.DataAccess\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.DataAccess.AssemblyInfo.cs
+F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.DataAccess\bin\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.DataAccess.deps.json
+F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.DataAccess\bin\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.DataAccess.dll
+F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.DataAccess\bin\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.DataAccess.pdb
+F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.DataAccess\bin\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.dll
+F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.DataAccess\bin\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.Core.pdb
+F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.DataAccess\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.DataAccess.csproj.CopyComplete
+F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.DataAccess\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.DataAccess.dll
+F:\Learn\C#\otus.teaching.linq.atm-master\Otus.Teaching.Linq.ATM.DataAccess\obj\Debug\netcoreapp3.1\Otus.Teaching.Linq.ATM.DataAccess.pdb
